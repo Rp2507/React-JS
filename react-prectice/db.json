@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "riya",
+      "author": "parmar",
+      "id": 2
+    },
+    {
+      "title": "dipak",
+      "author": "parmar",
+      "id": 3
+    },
+    {
+      "title": "react js",
+      "author": "node js",
+      "id": 4
+    },
+    {
+      "e_name": "riya",
+      "e_age": "19",
+      "e_email": "riyaparmar2507@gmial.com",
+      "id": 5
+    },
+    {
+      "e_name": "riya",
+      "e_age": "19",
+      "e_email": "riyaparmar2507@gmial.com",
+      "id": 6
+    },
+    {
+      "e_name": "riya",
+      "e_age": "19",
+      "e_email": "riyaparmar2507@gmial.com",
+      "id": 7
+    },
+    {
+      "e_name": "riya",
+      "e_age": "19",
+      "e_email": "riyaparmar2507@gmial.com",
+      "id": 8
+    },
+    {
+      "e_name": "riya",
+      "e_age": "19",
+      "e_email": "riyaparmar2507@gmial.com",
+      "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
